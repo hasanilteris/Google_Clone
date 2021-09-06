@@ -67,8 +67,7 @@ body{
     justify-content: center;
 
 }
-.search__button:hover{
-    transform: scale(1.08);
+
 }
 .search__buttons button{
     margin: 5px;
