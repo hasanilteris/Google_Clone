@@ -61,12 +61,14 @@ body{
 .search__input .material-icons {
     color: gray;
 }
+
 .search__buttons{
     margin-top: 30px;
     display: flex;
     justify-content: center;
 
 }
+
 .search__buttons button{
     margin: 5px;
     padding: 10px 15px;
